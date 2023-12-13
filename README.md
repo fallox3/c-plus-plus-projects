@@ -1,1 +1,1 @@
-## My C++ easy projects
+## My easy C++ projects
